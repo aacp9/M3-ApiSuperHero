@@ -1,0 +1,47 @@
+body{
+    margin:0;
+    padding:0;
+    /* Architects Daughter */
+    font-family: 'Architects Daughter', cursive;
+    /* background-color:#000000; */
+   
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,label,nav,button.btn,p,li{
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 400;
+}
+
+.estiloCanvas{
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 400;
+
+}
+#id_html_chartContainer{
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 400;
+
+}
+
+h4,h5{
+    font-family:1em;
+}    
+h3{
+    
+    font-size:1.5em;
+}    
+h2{
+    
+    font-size:3em;
+}    
+h1{
+   
+    font-size:3.5em;
+
+}
+label{
+    font-size:1em;
+
+}
